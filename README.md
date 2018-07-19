@@ -1,2 +1,2 @@
 # cachandogit
-Test project for mi brain
+Test project for my brain
